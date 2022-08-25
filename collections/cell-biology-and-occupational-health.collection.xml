@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Sascha McKeon">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col29641</md:content-id>
     <md:title>Cell Biology for Health Occupations 3rd Ed.</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>b9e1aad8-d34b-43e2-87a2-009945bd9315</md:uuid>
-<md:slug>cell-biology-and-occupational-health</md:slug>
-</metadata>
+    <md:slug>cell-biology-and-occupational-health</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m78808"/>
     <col:subcollection>
